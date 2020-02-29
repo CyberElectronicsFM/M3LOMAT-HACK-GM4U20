@@ -35,7 +35,7 @@ print ("  ^_^ THIS TOOL HAS BEEN PROGRAMED BE MENA MAGDY TO ECICAL HACKERS & PEN
 print ("")
 print ("                           THIS TOOL HAS PAWORED BT PYTHON ONLYY ")
 print ("                   ====================================================")
-print ("                               VIP THENGS FOR THIS TOOL                 ")
+print ("                               VIP THINGS FOR THIS TOOL                 ")
 print ("                   ==================================================== ")
 print ("                       THIS TOOL HAS BEEN PROGRAMED BY MENA MAGDY       ")
 print ("                             TO PENTRATION UR FACE STRPASS              ")
